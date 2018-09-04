@@ -4,9 +4,11 @@
 
 TARGET_DIR=$CS_HOME/NoisyEA/Data/coco
 SOURCE_ROOT=http://coco.gforge.inria.fr/data-archive
-BENCH="bbob-noisy"
+#BENCH="bbob-noisy"
+BENCH="bbob"
 START_YEAR=2009
-END_YEAR=2016
+#END_YEAR=2016
+END_YEAR=2018
 
 mkdir $TARGET_DIR/$BENCH
 rm $TARGET_DIR/$BENCH/.gitignore
