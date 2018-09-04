@@ -8,7 +8,7 @@ Procedure in do.py:build-java
  - compile CocoJNI.java and generate header (javac and javah)
  - at this step, CocoJNI.c (the interface file) must be modified to have same function names than the header file (TODO automatize)
  - compile the c interface and the shared library (gcc)
- - recompile the java classes 
+ - recompile the java classes
 
 
 
