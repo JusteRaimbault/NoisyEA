@@ -1,0 +1,9 @@
+[submodule "Models/mgo"]
+	path = Models/mgo
+	url = https://github.com/openmole/mgo.git
+[submodule "Models/mgo-benchmark"]
+	path = Models/mgo-benchmark
+	url = git@github.com:openmole/mgo-benchmark.git
+[submodule "Models/TestFunction_GA"]
+	path = Models/TestFunction_GA
+	url = https://github.com/chapinux/TestFunction_GA.git
