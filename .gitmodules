@@ -7,3 +7,9 @@
 [submodule "Models/TestFunction_GA"]
 	path = Models/TestFunction_GA
 	url = https://github.com/chapinux/TestFunction_GA.git
+[submodule "Models/Misc/akka-multiswarm"]
+	path = Models/Misc/akka-multiswarm
+	url = https://github.com/flintobrien/akka-multiswarm.git
+[submodule "Models/Misc/cilib"]
+	path = Models/Misc/cilib
+	url = https://github.com/cirg-up/cilib.git
