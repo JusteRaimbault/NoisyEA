@@ -2,8 +2,9 @@
 ## Docker creation for benchmark
 
  - pull docker hseeberger/scala-sbt
- - create container (--name scala_2.12) (list ALL containers : sudo docker ps --all)
- - start it (-i interactive)
+ - list ALL containers : sudo docker ps --all
+ - create container (--name scala_2.12) +  start it (-i interactive) [BUG docker attach ?]
+    => correct command : sudo docker run -it mgobench
  - copy repo to container (could clone it ?)
  - inside container : install gcc, install locate, run python build.by ;
     * test : missing local lib (akka-multiswarm) -> clone and publishLocal
