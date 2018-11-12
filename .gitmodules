@@ -13,3 +13,6 @@
 [submodule "Models/Misc/cilib"]
 	path = Models/Misc/cilib
 	url = https://github.com/cirg-up/cilib.git
+[submodule "Docs/NoisyEA"]
+	path = Docs/NoisyEA
+	url = git@github.com:JusteRaimbault/NoisyEA-paper.git
