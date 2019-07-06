@@ -1,0 +1,2 @@
+optimName;noiseName;nBootstraps;seed;budget;nrepets;sigma;gradientnsearchs;lambda;mu;particles;kalmanCloneProba;kalmanObservationNoise;noisyNsga2historySize;noisyNsga2cloneProba
+all;Gaussian;1;-935854170;1000;10;0.1;10;10;10;10;0.5;1.0;100;0.2
